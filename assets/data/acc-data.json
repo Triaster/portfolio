@@ -1,0 +1,52 @@
+{
+    "en": {
+        "name": "Maxim",
+        "lastName": "Brutsky",
+        "email": "brutsky.m@yandex.ru",
+        "facebook": {
+            "nickName": "null",
+            "name": "Maxim",
+            "lastName": "Brutsky"
+        },
+        "codewars": {
+            "nickName": "Maks3783300",
+            "name": "Maxim",
+            "lastName": "Brutsky"
+        },
+        "github": {
+            "nickName": "Triaster",
+            "name": "Maxim",
+            "lastName": "Brutsky"
+        },
+        "linkedIn": {
+            "nickName": "null",
+            "name": "null",
+            "lastName": "null"
+        }
+    },
+    "ru": {
+        "name": "Максим",
+        "lastName": "Бруцкий",
+        "email": "brutsky.m@yandex.ru",
+        "facebook": {
+            "nickName": "null",
+            "name": "Максим",
+            "lastName": "Бруцкий"
+        },
+        "codewars": {
+            "nickName": "Maks3783300",
+            "name": "Максим",
+            "lastName": "Бруцкий"
+        },
+        "github": {
+            "nickName": "Triaster",
+            "name": "Максим",
+            "lastName": "Бруцкий"
+        },
+        "linkedIn": {
+            "nickName": "null",
+            "name": "null",
+            "lastName": "null"
+        }
+    }
+}

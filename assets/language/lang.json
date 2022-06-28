@@ -1,0 +1,90 @@
+{
+    "ru": {
+        "header__profile-name span": "Максим Бруцкий",
+        "header__profile-area span": "Веб-разработчик",
+        "header__achiev-field:nth-child(1) .header__achiev-field-desc": "Месяцев опыта",
+        "header__achiev-field:nth-child(2) .header__achiev-field-desc": "Завершенных проектов",
+        "header__achiev-field:nth-child(3) .header__achiev-field-desc": "Довольных клиентов",
+        "header__contacts-cv-btn": "Загрузить резюме",
+        "main__filter .main__filter-btn:first-child": "Проекты",
+        "main__filter .main__filter-btn:last-child": "Навыки",
+
+        "section__field-projects .section__field-card:nth-child(1) .field-card__info-title": "Веб",
+        "section__field-projects .section__field-card:nth-child(1) .field-card__info-desc p": "Лендинговая страница",
+        "section__field-projects .section__field-card:nth-child(2) .field-card__info-title": "Веб",
+        "section__field-projects .section__field-card:nth-child(2) .field-card__info-desc p": "Лендинговая страница",
+        "section__field-projects .section__field-card:nth-child(3) .field-card__info-title": "Веб",
+        "section__field-projects .section__field-card:nth-child(3) .field-card__info-desc p": "Страница продукта",
+        "section__field-projects .section__field-card:nth-child(4) .field-card__info-title": "Веб",
+        "section__field-projects .section__field-card:nth-child(4) .field-card__info-desc p": "Веб-приложение",
+        "section__field-projects .section__field-card:nth-child(5) .field-card__info-title": "Веб",
+        "section__field-projects .section__field-card:nth-child(5) .field-card__info-desc p": "Панель админа",
+        "section__field-projects .section__field-card:nth-child(6) .field-card__info-title": "Веб",
+        "section__field-projects .section__field-card:nth-child(6) .field-card__info-desc p": "Веб-сайт фильма",
+
+        "field__left-body .field__col:nth-child(1) .field__row-el:nth-child(1) .field__row-el-desc p": "Средний",
+        "field__left-body .field__col:nth-child(1) .field__row-el:nth-child(2) .field__row-el-desc p": "Базовый",
+        "field__left-body .field__col:nth-child(1) .field__row-el:nth-child(3) .field__row-el-desc p": "Средний",
+        "field__left-body .field__col:nth-child(2) .field__row-el:nth-child(1) .field__row-el-desc p": "Базовый",
+        "field__left-body .field__col:nth-child(2) .field__row-el:nth-child(2) .field__row-el-desc p": "Средний",
+        "field__left-body .field__col:nth-child(2) .field__row-el:nth-child(3) .field__row-el-desc p": "Базовый",
+
+        "field__right-body .field__col:nth-child(1) .field__row-el:nth-child(1) .field__row-el-desc p": "Уровень чтения документации",
+        "field__right-body .field__col:nth-child(1) .field__row-el:nth-child(2) .field__row-el-desc p": "Базовый",
+        "field__right-body .field__col:nth-child(1) .field__row-el:nth-child(3) .field__row-el-desc p": "Родной",
+        "field__right-body .field__col:nth-child(2) .field__row-el:nth-child(1) .field__row-el-desc p": "Среднее",
+        "field__right-body .field__col:nth-child(1) .field__row-el:nth-child(1) .field__row-el-title h5": "Английский",
+        "field__right-body .field__col:nth-child(1) .field__row-el:nth-child(2) .field__row-el-title h5": "Французский",
+        "field__right-body .field__col:nth-child(1) .field__row-el:nth-child(3) .field__row-el-title h5": "Русский",
+        "field__right-body .field__col:nth-child(2) .field__row-el:nth-child(1) .field__row-el-title h5": "Образование",
+        "field__right-body .field__col:nth-child(2) .field__row-el:nth-child(2) .field__row-el-title h5": "Исполнительный",
+        "field__right-body .field__col:nth-child(2) .field__row-el:nth-child(3) .field__row-el-title h5": "Целеустремленный",
+
+        "footer p": "© Triaster. Все права защищены"
+    },
+    "en": {
+        "header__profile-name span": "Maxim Brutsky",
+        "header__profile-area span": "Web Developer",
+        "header__achiev-field:nth-child(1) .header__achiev-field-desc": "Months of work",
+        "header__achiev-field:nth-child(2) .header__achiev-field-desc": "Completed projects",
+        "header__achiev-field:nth-child(3) .header__achiev-field-desc": "Satisfied customers",
+        "header__contacts-cv-btn": "Download CV",
+        "main__filter .main__filter-btn:first-child": "Projects",
+        "main__filter .main__filter-btn:last-child": "Skills",
+
+        "section__field-projects .section__field-card:nth-child(1) .field-card__info-title": "Web",
+        "section__field-projects .section__field-card:nth-child(1) .field-card__info-desc p": "Landing Page",
+        "section__field-projects .section__field-card:nth-child(2) .field-card__info-title": "Web",
+        "section__field-projects .section__field-card:nth-child(2) .field-card__info-desc p": "Landing Page",
+        "section__field-projects .section__field-card:nth-child(3) .field-card__info-title": "Web",
+        "section__field-projects .section__field-card:nth-child(3) .field-card__info-desc p": "Product Page",
+        "section__field-projects .section__field-card:nth-child(4) .field-card__info-title": "Web",
+        "section__field-projects .section__field-card:nth-child(4) .field-card__info-desc p": "Web Application",
+        "section__field-projects .section__field-card:nth-child(5) .field-card__info-title": "Web",
+        "section__field-projects .section__field-card:nth-child(5) .field-card__info-desc p": "Admin Panel",
+        "section__field-projects .section__field-card:nth-child(6) .field-card__info-title": "Web",
+        "section__field-projects .section__field-card:nth-child(6) .field-card__info-desc p": "Movie Website",
+
+        "field__left-body .field__col:nth-child(1) .field__row-el:nth-child(1) .field__row-el-desc p": "Intermediate",
+        "field__left-body .field__col:nth-child(1) .field__row-el:nth-child(2) .field__row-el-desc p": "Basic",
+        "field__left-body .field__col:nth-child(1) .field__row-el:nth-child(3) .field__row-el-desc p": "Intermediate",
+        "field__left-body .field__col:nth-child(2) .field__row-el:nth-child(1) .field__row-el-desc p": "Basic",
+        "field__left-body .field__col:nth-child(2) .field__row-el:nth-child(2) .field__row-el-desc p": "Intermediate",
+        "field__left-body .field__col:nth-child(2) .field__row-el:nth-child(3) .field__row-el-desc p": "Basic",
+        
+
+        "field__right-body .field__col:nth-child(1) .field__row-el:nth-child(1) .field__row-el-desc p": "Documentation reading level",
+        "field__right-body .field__col:nth-child(1) .field__row-el:nth-child(2) .field__row-el-desc p": "Basic",
+        "field__right-body .field__col:nth-child(1) .field__row-el:nth-child(3) .field__row-el-desc p": "Advanced",
+        "field__right-body .field__col:nth-child(2) .field__row-el:nth-child(1) .field__row-el-desc p": "Secondary",
+        "field__right-body .field__col:nth-child(1) .field__row-el:nth-child(1) .field__row-el-title h5": "English",
+        "field__right-body .field__col:nth-child(1) .field__row-el:nth-child(2) .field__row-el-title h5": "French",
+        "field__right-body .field__col:nth-child(1) .field__row-el:nth-child(3) .field__row-el-title h5": "Russian",
+        "field__right-body .field__col:nth-child(2) .field__row-el:nth-child(1) .field__row-el-title h5": "Education",
+        "field__right-body .field__col:nth-child(2) .field__row-el:nth-child(2) .field__row-el-title h5": "Diligence",
+        "field__right-body .field__col:nth-child(2) .field__row-el:nth-child(3) .field__row-el-title h5": "Purposeful",
+
+        "footer p": "© Triaster. All rights reserved"
+        
+    }
+}
